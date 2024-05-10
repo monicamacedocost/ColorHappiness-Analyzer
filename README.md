@@ -57,4 +57,4 @@ Digite o caminho da imagem 1: fim
 
 
 # Autor
-Este projeto foi desenvolvido por [Monica Costa].
+Este projeto foi desenvolvido por Monica Costa.
